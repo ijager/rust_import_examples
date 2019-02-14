@@ -1,0 +1,7 @@
+[package]
+name = "somepackage"
+version = "0.1.0"
+authors = ["Ingmar Jager <ingmarjager@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
